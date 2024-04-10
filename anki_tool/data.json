@@ -1,0 +1,74 @@
+[
+    {
+        "name": "hanv62",
+        "vocab_size": 3054,
+        "src_deck_used": [
+            "4000 Essential English Words - Book 1",
+            "4000 Essential English Words - Book 2",
+            "4000 Essential English Words - Book 3",
+            "4000 Essential English Words - Book 4",
+            "4000 Essential English Words - Book 5",
+            "4000 Essential English Words - Book 6"
+        ],
+        "deck": [
+            {
+                "deck_name": "Essential_words_HaNV62",
+                "total_words": 2631
+            }
+        ]
+    },
+    {
+        "name": "toanhd3",
+        "vocab_size": 3406,
+        "src_deck_used": [
+            "4000 Essential English Words - Book 1",
+            "4000 Essential English Words - Book 2",
+            "4000 Essential English Words - Book 3",
+            "4000 Essential English Words - Book 4",
+            "4000 Essential English Words - Book 5",
+            "4000 Essential English Words - Book 6"
+        ],
+        "deck": [
+            {
+                "deck_name": "Essential_words_ToanHD3",
+                "total_words": 2542
+            }
+        ]
+    },
+    {
+        "name": "tuyentv11",
+        "vocab_size": 2174,
+        "src_deck_used": [
+            "4000 Essential English Words - Book 1",
+            "4000 Essential English Words - Book 2",
+            "4000 Essential English Words - Book 3",
+            "4000 Essential English Words - Book 4",
+            "4000 Essential English Words - Book 5",
+            "4000 Essential English Words - Book 6"
+        ],
+        "deck": [
+            {
+                "deck_name": "Essential_words_TuyenTV11",
+                "total_words": 2895
+            }
+        ]
+    },
+    {
+        "name": "thannh",
+        "vocab_size": 3892,
+        "src_deck_used": [
+            "4000 Essential English Words - Book 1",
+            "4000 Essential English Words - Book 2",
+            "4000 Essential English Words - Book 3",
+            "4000 Essential English Words - Book 4",
+            "4000 Essential English Words - Book 5",
+            "4000 Essential English Words - Book 6"
+        ],
+        "deck": [
+            {
+                "deck_name": "Essential_words_ThanNH",
+                "total_words": 2409
+            }
+        ]
+    }
+]
